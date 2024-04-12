@@ -8,4 +8,4 @@ Added text from computer
 
 Added text to new branch
 
-Разрешаем конфликт
+Разрешаем конфликт локальный текст
