@@ -8,4 +8,5 @@ Added text from computer
 
 Added text to new branch
 
-Разрешаем конфликт локальный текст
+Разрешаем конфликт текст в браузере
+
